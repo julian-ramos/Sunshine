@@ -14,4 +14,6 @@
     <string name="pref_units_label_metric">Metric</string>
     <string name="pref_units_label_imperial">Imperial</string>
     <string name="pref_units_label">Temperature Units</string>
+    <string name="location_mapping">Mapping</string>
+    <string name="share">Share</string>
 </resources>
